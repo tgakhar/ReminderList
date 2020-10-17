@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:title="Active"
+        android:id="@+id/popup_active"
+        android:icon="@drawable/ic_baseline_toggle_on_24"
+
+        />
+    <item android:title="Inactive"
+        android:id="@+id/popup_inactive"
+        android:icon="@drawable/ic_baseline_toggle_off_24"
+
+       />
+
+    <item android:title="Show All"
+        android:id="@+id/popup_all"
+       />
+</menu>
